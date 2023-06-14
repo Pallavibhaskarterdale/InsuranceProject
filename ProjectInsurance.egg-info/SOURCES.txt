@@ -1,0 +1,6 @@
+setup.py
+ProjectInsurance.egg-info/PKG-INFO
+ProjectInsurance.egg-info/SOURCES.txt
+ProjectInsurance.egg-info/dependency_links.txt
+ProjectInsurance.egg-info/requires.txt
+ProjectInsurance.egg-info/top_level.txt
