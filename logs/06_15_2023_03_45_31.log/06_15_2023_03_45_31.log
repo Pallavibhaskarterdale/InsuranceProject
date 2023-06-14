@@ -1,0 +1,14 @@
+[ 2023-06-15 03:45:31,262 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-15 03:45:31,267 ] 187 werkzeug - INFO -  * Debugger PIN: 639-981-701
+[ 2023-06-15 03:47:07,366 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:47:07] "GET / HTTP/1.1" 200 -
+[ 2023-06-15 03:47:07,410 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:47:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-15 03:48:15,369 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:48:15] "[33mGET /home.html HTTP/1.1[0m" 404 -
+[ 2023-06-15 03:48:48,871 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:48:48] "[33mGET /predictdata' HTTP/1.1[0m" 404 -
+[ 2023-06-15 03:48:55,748 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:48:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-06-15 03:49:27,472 ] 187 werkzeug - INFO - 127.0.0.1 - - [15/Jun/2023 03:49:27] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-06-15 03:50:47,758 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\pallv\\pycharmprojects\\pythonprojectinsurance\\app.py', reloading
+[ 2023-06-15 03:50:47,758 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\pallv\\PycharmProjects\\pythonProjectInsurance\\app.py', reloading
+[ 2023-06-15 03:50:47,764 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\pallv\\pycharmprojects\\pythonprojectinsurance\\app.py', reloading
+[ 2023-06-15 03:50:47,764 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\pallv\\PycharmProjects\\pythonProjectInsurance\\app.py', reloading
+[ 2023-06-15 03:50:47,764 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\pallv\\PycharmProjects\\pythonProjectInsurance\\app.py', reloading
+[ 2023-06-15 03:50:47,764 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\pallv\\pycharmprojects\\pythonprojectinsurance\\app.py', reloading
